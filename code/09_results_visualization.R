@@ -110,3 +110,4 @@ fourfoldplot(
 dev.off()
 
 print("Results visualization completed!")
+read.csv("results/confusion_matrix.csv")

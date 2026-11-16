@@ -94,3 +94,5 @@ write.csv(
 )
 
 print("Model evaluation completed successfully!")
+
+read.csv("results/model_evaluation.csv")
